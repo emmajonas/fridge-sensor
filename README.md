@@ -1,5 +1,5 @@
 # Fridge Sensor
-A simple program using Arduino, Adafruit.io and IoT. It uses a circuit with a temperature sensor to detect if a fridge has gone above or below its ideal temperature. If the fridge has gone above 7 degrees Celcius, an LED light on the circuit blinks. If it goes below -1 degree Celcius, the LED light is solid.
+A simple program using Arduino, Adafruit.io and IoT. It uses a circuit with a temperature sensor to detect if a fridge has gone above or below its ideal temperature. If the fridge has gone above 7 degrees Celcius, an LED light on the circuit blinks. If it goes below -1 degree Celcius, the LED light is solid. Otherwise, if it is in the correct temperature range, the LED is off.
 
 ![Design Circuit](https://raw.githubusercontent.com/emmajonas/fridge-sensor/master/temperature%20design%20circuit.png)
 
